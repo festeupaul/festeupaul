@@ -10,7 +10,7 @@
 
 ### About me
 
-- 🎓 I'm currently studying **Computer Science and Information Technology** at the **Technical University of Cluj-Napoca**
+- 🎓 I'm currently studying **Computer Science** at the **Technical University of Cluj-Napoca**
 - 🌱 I’m currently learning **[DevOps, Next.js, React]**
 - 🚀 I'm looking for **[a junior developer role or an internship]**
 - 💬 Ask me about **[Java, C, C++, etc.]**
